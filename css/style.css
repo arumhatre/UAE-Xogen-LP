@@ -63,8 +63,8 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 .launch_ban_strip_n{width:55%;margin-bottom:10px}
 }
 @media (max-width:992px){
-.xogen_banner_content h3{font-size:24px;font-weight:500;color:#173d5b;line-height:18px}
-.xogen_banner_content h4{font-size:24px;font-weight:800;color:#173d5b;margin-bottom:0}
+.xogen_banner_content h3{font-size:22px;font-weight:500;color:#173d5b;line-height:18px}
+.xogen_banner_content h4{font-size:22px;font-weight:800;color:#173d5b;margin-bottom:0}
 }
 @media (max-width:600px){
 .xogen_banner_content h1{font-weight:700;color:#173d5b;font-size:48px}
