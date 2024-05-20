@@ -231,7 +231,7 @@ header{background:#383838;min-height:60px;display:-webkit-box;display:-ms-flexbo
 .panel-title{margin-bottom:0;text-decoration:none!important}
 .panel-title a{display: flex; text-decoration:none!important;color:#30292b;font-size:21px;font-weight:500}
 .panel-title a,.panel-title a:hover{text-decoration:none!important;color:#30292b;font-size:21px;font-weight:500}
-.panel-title a span{width: 40px;height: 40px;padding:10px;margin-right:10px;background:linear-gradient(135deg,#b99863 0,#e0cd98 25%,#f8edb8 50%,#d7c18f 75%,#ac8a5b 100%);color:#212121;border-radius:50%;font-size:18px;font-weight:600}
+.panel-title a span{width: 40px;height: 40px;padding:9px;margin-right:10px;background:linear-gradient(135deg,#b99863 0,#e0cd98 25%,#f8edb8 50%,#d7c18f 75%,#ac8a5b 100%);color:#212121;border-radius:50%;font-size:16px;font-weight:600}
 .panel-title a.collapsed span{color:#fff;background:#000;font-weight:500}
 /*.panel-title a:after{content:'-';float:right;font-size:30px;font-weight:400;}*/
 .panel-title a:after {
